@@ -22,11 +22,28 @@ Available Time: 40 minutes
 * Communicate progress to stakeholders
 * *Not* implementation
 
+## Legal Requirements
+
+* All electronic products produced or procured for the U of I subject to section 508.
+    * Must be accessible to persons with disabilities
+* Lots of room for (mis)interpretation
+    * Lots of legal ambiguity
+    * One-size-fits-all is not feasible
+    * 100% coverage is unrealistic. 
+* Your process will establish due diligence
+
 ## Skill Building
 
-* Learn 11 requirements
-* Learn POUR principles
-* Learn accessibility, usability spectrum
+* Prerequisite knowledge for working within role
+    * Learn legal requirements
+    * Learn WCAG 2.0 success criteria (a, aa, aaa)
+        * aa generally a safe, achievable choice
+        * aaa good goal, but may be impossible to achieve on all pages
+    * Learn to recognize 11 requirements (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
+    * Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
+    * Understand accessibility/usability spectrum
+* Don't need to know everything
+
 
 
 ## Requirements Gathering
@@ -36,3 +53,5 @@ Available Time: 40 minutes
 ## Minimizing Risk
 
 ## Preventing Bottlenecks
+
+## How do you know you're done
