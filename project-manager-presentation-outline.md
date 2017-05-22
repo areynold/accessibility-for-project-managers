@@ -32,6 +32,16 @@ Available Time: 40 minutes
     * 100% coverage is unrealistic. 
 * Your process will establish due diligence
 
+## Functional Requirements
+
+* What are you building?
+    * Accessible output vs. accessible authoring tools for accessible output
+    * Ignore requirements for components you aren't using
+* What has the customer asked for?
+    * Some components, frameworks have known accessibility challenges
+* How much control do you have?
+    * Third-party software may require changes
+
 ## Skill Building
 
 * Prerequisite knowledge for working within role
@@ -39,6 +49,7 @@ Available Time: 40 minutes
     * Learn WCAG 2.0 success criteria (a, aa, aaa)
         * aa generally a safe, achievable choice
         * aaa good goal, but may be impossible to achieve on all pages
+        * User content can fail a formerly accessible site
     * Learn to recognize 11 requirements (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
     * Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
     * Understand accessibility/usability spectrum
