@@ -66,27 +66,67 @@ Available Time: 40 minutes
 * Some specs and support defined by language, wcag, tools
 * Big gap between meeting minimum functional requirements and meeting user expectations
 * At some point, accessibility becomes usability
-    * Accessibility/usability split makes a good threshold for intake and prioritization
+    * Accessibility/usability split makes a good threshold for minimum viable product
 * Users are not monolithic--no substitute for user testing
 
 ## Where does accessibility fit in?
 
 * Everywhere
-* Accessibility is 
-## Skill Building
+* Accessibility is not a single checkbox item
+* Accessibility is easy to start doing
+* Accessibility is easy to undo
+* Consider accessibility from the beginning and throughout the process
 
-* Prerequisite knowledge for working within role
-    * Learn legal requirements
-    * Learn WCAG 2.0 success criteria (a, aa, aaa)
-        * aa generally a safe, achievable choice
-        * aaa good goal, but may be impossible to achieve on all pages
-        * User content can fail a formerly accessible site
-    * Learn to recognize 11 requirements (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
-    * Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
-    * Understand accessibility/usability spectrum
+## What can you do?
+
+## Get to know your team
+
+* Identify existing expertise and interest
+* Appoint an expert if necessary--QA often a good choice
+* Watch out for bottlenecks on critical personnel
+* Allow time to learn the tools!
+
+## Share knowledge
+
+* Come prepared with resources
+* Anticipate role-based concerns
+    * Designers likely to feel hobbled
+    * Developers likely to be unsure what they need to implement 
+
+## Get to know your project
+
+* Know your users
+* Spend more time in the design phase
+    * Play out use cases
+    * Identify project elements and associated requirements/challenges
+    * Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
+* Spend time on process
+    * Identify intake and prioritization heuristics
+    * Develop use cases and personas
+    * Identify supported technologies
+    * Identify canonical guides
+
+## Show your work
+
+* Get QA involved early!
+* Get user feedback early!
+* Follow your checklists
+
+## Build Your Skills
+
+* Learn legal requirements
+* Learn WCAG 2.0 success criteria (a, aa, aaa)
+    * aa generally a safe, achievable choice
+    * aaa good goal, but may be impossible to achieve on all pages
+    * User content can fail a formerly accessible site
+* Learn to recognize 11 requirements (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
+* Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
+* Understand accessibility/usability spectrum
+    * Disabilities can range from mild to severe
+    * Disabilities can be temporary
+    * Users with disabilities are not monolithic
+    * Users with disabilities are regular people
 * Don't need to know everything
-
-## Requirements Gathering
 
 ## Establishing Process
 
@@ -95,3 +135,5 @@ Available Time: 40 minutes
 ## Preventing Bottlenecks
 
 ## How do you know you're done
+
+## Working with vendors
