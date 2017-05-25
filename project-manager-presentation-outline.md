@@ -13,24 +13,43 @@ Available Time: 40 minutes
         * Examine some past court cases
     * How to include accessibility into the project flow (not a line item; not something you have to know everything about)
 
-## Role of PM in Accessibility
+## Role of PM
 
-* Identify requirements (legal, functional)
+* Be aware of the state of the project at all times
 * Minimize risk (legal, functional, reputation)
-* Ensure smooth handoff between team members
+* Ensure smooth process
+* Be able to answer questions with a high degree of certainty
+
+## How to do that?
+
+* No surprises!
+    * Identify project requirements (legal, functional)
+    * Tease out fuzzy requirements (implied functionality, poorly defined specs)
 * Communicate requirements to team
 * Communicate progress to stakeholders
-* *Not* implementation
+* *Not* responsible for implementation
+    * Understand rules of thumb
 
+## Requirements gathering
+
+* Treat accessibility requirements as any other UI requirement
+    * Minimum functional requirements
+    * Mostly non-functional requirements--app won't break, but user experience will be poor
+* Your process will establish due diligence
+    
 ## Legal Requirements
 
 * All electronic products produced or procured for the U of I subject to section 508.
     * Must be accessible to persons with disabilities
+    * Alternate arrangements must be made when content cannot be made accessible
+
+## Legal requirements are fuzzy
+
 * Lots of room for (mis)interpretation
+    * Lots of outdated advice
     * Lots of legal ambiguity
     * One-size-fits-all is not feasible
     * 100% coverage is unrealistic. 
-* Your process will establish due diligence
 
 ## Functional Requirements
 
@@ -42,6 +61,18 @@ Available Time: 40 minutes
 * How much control do you have?
     * Third-party software may require changes
 
+## Functional requirements are fuzzy
+
+* Some specs and support defined by language, wcag, tools
+* Big gap between meeting minimum functional requirements and meeting user expectations
+* At some point, accessibility becomes usability
+    * Accessibility/usability split makes a good threshold for intake and prioritization
+* Users are not monolithic--no substitute for user testing
+
+## Where does accessibility fit in?
+
+* Everywhere
+* Accessibility is 
 ## Skill Building
 
 * Prerequisite knowledge for working within role
@@ -54,8 +85,6 @@ Available Time: 40 minutes
     * Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
     * Understand accessibility/usability spectrum
 * Don't need to know everything
-
-
 
 ## Requirements Gathering
 
