@@ -35,7 +35,9 @@ Available Time: 40 minutes
 * Treat accessibility requirements as any other UI requirement
     * Minimum functional requirements
     * Mostly non-functional requirements--app won't break, but user experience will be poor
+* Can reference WCAG or external document and list exceptions
 * Your process will establish due diligence
+* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user" 
 
 ## Stakeholder feedback
 
@@ -44,7 +46,7 @@ Available Time: 40 minutes
     * This is much like other non-functional requirements, like security and logging
 * Because of this, you may need to remind stakeholders of these requirements.
 * Including accessibility means you have a better product. Better SEO, better usability, better customer retention/market
-    
+
 ## Legal Requirements
 
 * All electronic products produced or procured for the U of I subject to section 508.
@@ -79,12 +81,12 @@ Available Time: 40 minutes
 
 ## Project Methodology and Management
 
-## Get to know your team
+## Facilitate inclusion of accessibility
 
 * Identify existing expertise and interest
-* Appoint an expert if necessary--QA often a good choice
+* Appoint a liaison to accessibility experts if necessary--QA often a good choice
 * Watch out for bottlenecks on critical personnel
-* Allow time to learn the tools!
+* Determine external resources
 
 ## Share knowledge
 
@@ -93,12 +95,14 @@ Available Time: 40 minutes
     * Designers likely to feel hobbled
     * Developers likely to be unsure what they need to implement 
 * Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
+    * Build a common understanding of accessibility inside your project team
+    * Make sure minimum standards aren't written down and filed away
 
 ## Get to know your project
 
 * Know your users
 * Spend more time in the design phase
-    * Play out use cases
+    * Play out use cases and user personas (and personas of users with disabilities)
     * Identify project elements and associated requirements/challenges
     * Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
 * Spend time on process
@@ -106,6 +110,7 @@ Available Time: 40 minutes
     * Develop use cases and personas
     * Identify supported technologies
     * Identify canonical guides
+* Allow time to learn the tools!
 
 ## Build Your Skills
 
@@ -125,20 +130,27 @@ Available Time: 40 minutes
 
 ## Establishing Process to Minimize Risk
 
+* Different user groups will have competing needs
+* Accessibility is best included in an iterative fashion. Don't just test at the end of the lifecycle
 * Work with team members to automate accessibility testing when possible
 * Get QA and your accessibility experts involved early!
 * Get user feedback early!
 * Follow your checklists
-
-## How do you know you're done
-
-* Accessibility is treated like any other requirement. You're done when you need to release. 
-    * Because you've prioritized your requirements, you know what needs to be completed to release a product.
-* Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
-* Document where future enhancements are needed. 
 
 ## Working with vendors
 
 * Use the Accessibility Requirements for Procured Software v1.7 document as a reference. 
 * Be prepared to work with vendors that aren't familiar with accessibility requirements. 
     * This may mean finding other vendors
+* Make sure accessibility requirements are communicated to the vendor and in the contract
+    * Need to include remediation ("if it doesn't meet X, then it will be added on an agreed-upon time")
+* Check for VPAT from the vendor
+* Determine the vendor's point of contact to handle accessibility issues
+
+## How do you know you're done
+
+* Accessibility is treated like any other requirement. You're done when you need to release (or run out of money). 
+    * Because you've prioritized your requirements, you know what needs to be completed to release a product.
+* Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
+* Changing content may invalidate site accessibility 
+* Document where future enhancements are needed. 
