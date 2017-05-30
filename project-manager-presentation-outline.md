@@ -2,17 +2,6 @@
 
 Available Time: 40 minutes
 
-## Intro
-
-* Presentation goals
-    * Role of PM
-    * 11 requirements (flash card knowledge), POUR
-    * How to acquire the knowledge/expertise you need within your team (or who to contact)
-    * How to tell when you’ve met the requirements
-        * No regulatory body, per se
-        * Examine some past court cases
-    * How to include accessibility into the project flow (not a line item; not something you have to know everything about)
-
 ## Role of PM
 
 * Be aware of the state of the project at all times
@@ -30,12 +19,31 @@ Available Time: 40 minutes
 * *Not* responsible for implementation
     * Understand rules of thumb
 
+## How does accessibility impact a PM's role?
+
+* Accessibility is an inherent part of a product, just like usability, performance, and other "-ilities".
+* Accessibility is not a single checkbox item
+* Accessibility is easy to start doing, but difficult to add at the end of the project
+* Accessibility is easy to undo
+* Consider accessibility from the beginning and throughout the process
+* Two main sections: Requirements and Project Methodology and Management
+
+## Requirements
+
 ## Requirements gathering
 
 * Treat accessibility requirements as any other UI requirement
     * Minimum functional requirements
     * Mostly non-functional requirements--app won't break, but user experience will be poor
 * Your process will establish due diligence
+
+## Stakeholder feedback
+
+* Unlike other requirements, stakeholders often don't think about accessibility.
+    * Stakeholders see the impact of poor performance or not meeting requirements
+    * This is much like other non-functional requirements, like security and logging
+* Because of this, you may need to remind stakeholders of these requirements.
+* Including accessibility means you have a better product. Better SEO, better usability, better customer retention/market
     
 ## Legal Requirements
 
@@ -69,15 +77,7 @@ Available Time: 40 minutes
     * Accessibility/usability split makes a good threshold for minimum viable product
 * Users are not monolithic--no substitute for user testing
 
-## Where does accessibility fit in?
-
-* Everywhere
-* Accessibility is not a single checkbox item
-* Accessibility is easy to start doing
-* Accessibility is easy to undo
-* Consider accessibility from the beginning and throughout the process
-
-## What can you do?
+## Project Methodology and Management
 
 ## Get to know your team
 
@@ -92,6 +92,7 @@ Available Time: 40 minutes
 * Anticipate role-based concerns
     * Designers likely to feel hobbled
     * Developers likely to be unsure what they need to implement 
+* Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
 
 ## Get to know your project
 
@@ -105,12 +106,6 @@ Available Time: 40 minutes
     * Develop use cases and personas
     * Identify supported technologies
     * Identify canonical guides
-
-## Show your work
-
-* Get QA involved early!
-* Get user feedback early!
-* Follow your checklists
 
 ## Build Your Skills
 
@@ -128,12 +123,22 @@ Available Time: 40 minutes
     * Users with disabilities are regular people
 * Don't need to know everything
 
-## Establishing Process
+## Establishing Process to Minimize Risk
 
-## Minimizing Risk
-
-## Preventing Bottlenecks
+* Work with team members to automate accessibility testing when possible
+* Get QA and your accessibility experts involved early!
+* Get user feedback early!
+* Follow your checklists
 
 ## How do you know you're done
 
+* Accessibility is treated like any other requirement. You're done when you need to release. 
+    * Because you've prioritized your requirements, you know what needs to be completed to release a product.
+* Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
+* Document where future enhancements are needed. 
+
 ## Working with vendors
+
+* Use the Accessibility Requirements for Procured Software v1.7 document as a reference. 
+* Be prepared to work with vendors that aren't familiar with accessibility requirements. 
+    * This may mean finding other vendors
