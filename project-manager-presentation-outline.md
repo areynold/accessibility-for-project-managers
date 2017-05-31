@@ -26,7 +26,7 @@ Available Time: 40 minutes
 * PM is *not* responsible for implementation
     * PM should understand rules of thumb
 
-## How does accessibility impact a PM's role?
+## How does accessibility impact a PM's role? *FIXME: kitchen sink slide*
 
 * Accessibility is an inherent part of a product, just like usability, performance, and other "-ilities".
 * Accessibility is not a single checkbox item
