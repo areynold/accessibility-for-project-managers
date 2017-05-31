@@ -21,54 +21,64 @@ Available Time: 40 minutes
 * Minimize surprises!
     * Identify project requirements (legal, functional)
     * Tease out fuzzy requirements (implied functionality, poorly defined specs)
-* Communicate requirements to team
-* Communicate progress to stakeholders
+* Facilitate communication
+    * Communicate requirements to team and/or vendors
+    * Communicate progress to stakeholders
 * PM is *not* responsible for implementation
     * PM should understand rules of thumb
 
-## How does accessibility impact a PM's role? *FIXME: kitchen sink slide*
+## How should PMs approach accessibility?
+
+* Treat accessibility requirements as any other UI requirement
+    * Functional requirements must be included in minimum viable product
+    * Non-functional requirements will need testing and iteration--app won't break, but user experience will be poor
+* Can reference WCAG or external document and list exceptions
+* Your process will establish due diligence
+* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
+
+## Diving in: Requirements Gathering
+
+## Summary
 
 * Accessibility is an inherent part of a product, just like usability, performance, and other "-ilities".
 * Accessibility is not a single checkbox item
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
-* Consider accessibility from the beginning and throughout the process
-* Two main sections: Impact on project manager and impact on project implementers
+* Must consider accessibility from the beginning and continue throughout the process
 
-## Requirements
-
-## Requirements gathering
-
-* Treat accessibility requirements as any other UI requirement
-    * Functional requirements must be included in minimum viable product
-    * Mostly non-functional requirements--app won't break, but user experience will be poor
-* Can reference WCAG or external document and list exceptions
-* Your process will establish due diligence
-* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user" 
-
-## Stakeholder feedback
-
-* Unlike other requirements, stakeholders often don't think about accessibility.
-    * Stakeholders see the impact of poor performance or not meeting requirements
-    * This is much like other non-functional requirements, like security and logging
-* Because of this, you may need to remind stakeholders of these requirements.
-* Including accessibility means you have a better product. Better SEO, better usability, better customer retention/market
-
-## Legal Requirements
+### Legal Requirements
 
 * All electronic products produced or procured for the U of I subject to section 508.
     * Must be accessible to persons with disabilities
     * Alternate arrangements must be made when content cannot be made accessible
+* Practically speaking, university products should be written to WCAG 2.0 AA
+    * Section 508 will mandate WCAG 2.0 Level AA as of January, 2018
+    * IT Accessibility policy will require WCAG 2.0 Level AA for web technologies as of Fall 2017
+    * OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
+    * Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
 
-## Legal requirements are fuzzy
+### Implementation of legal requirements can be fuzzy
 
+* Hard to google a clear line item standard
 * Lots of room for (mis)interpretation
     * Lots of outdated advice
-    * Lots of legal ambiguity
+    * Sometimes legal ambiguity
     * One-size-fits-all is not feasible
-    * 100% coverage is unrealistic. 
+    * Best practices can be in conflict
 
-## Functional Requirements
+### Stakeholder Requests
+
+* Stakeholders often don't think about accessibility.
+    * Stakeholders see the impact of poor implementation
+    * This is much like other non-functional requirements, like security and logging
+* Because of this, you may need to remind stakeholders of these requirements.
+* Including accessibility means you have a better product
+    * Better SEO
+    * better usability
+    * better customer retention/market
+* Be prepared to back up your statements
+
+### Functional Requirements
 
 * What are you building?
     * Accessible output vs. accessible authoring tools for accessible output
@@ -78,13 +88,19 @@ Available Time: 40 minutes
 * How much control do you have?
     * Third-party software may require changes
 
-## Functional requirements are fuzzy
+### Functional requirements are fuzzy
 
 * Some specs and support defined by language, wcag, tools
 * Big gap between meeting minimum functional requirements and meeting user expectations
 * At some point, accessibility becomes usability
     * Accessibility/usability split makes a good threshold for minimum viable product
 * Users are not monolithic--no substitute for user testing
+
+### Wrapping up
+
+* Document your requirements
+* Document your decisions
+* Make that documentation internally available to your team
 
 ## Project Methodology and Management
 
