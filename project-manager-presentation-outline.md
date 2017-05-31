@@ -111,9 +111,13 @@ Available Time: 40 minutes
 
 * Some specs and support defined by language, wcag, tools
 * Big gap between meeting minimum functional requirements and meeting user expectations
+    * e.g., Don't map ctrl+c to close window.
+    * Assistive technologies have their own conventions
 * At some point, accessibility becomes usability
+    * "Functional accessibility" concept
     * Accessibility/usability split makes a good threshold for minimum viable product
 * Users are not monolithic--no substitute for user testing
+    * Users have their own preferences, which may not be obvious to users without disabilities
 
 ### Requirements Wrapup
 
@@ -123,12 +127,15 @@ Available Time: 40 minutes
 
 ## Facilitate inclusion of accessibility
 
+* As a team, commit to accessibility as a requirement
+* Understand that accessibility breaks down when people start guessing
 * Identify existing expertise and interest
 * Appoint a liaison to accessibility experts if necessary
     * QA often a good choice
     * Plan for a learning curve (e.g., screenreaders)
 * Watch out for bottlenecks on critical personnel
-* Determine external resources
+* Identify external resources and communicate to team
+* Obtain/offer accessibility training where appropriate
 
 ## Share knowledge
 
@@ -136,47 +143,58 @@ Available Time: 40 minutes
 * Anticipate role-based concerns
     * Designers likely to feel hobbled
     * Developers likely to be unsure what they need to implement
+    * Content providers likely to be unaware that they have a role
 * Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
     * Build a common understanding of accessibility inside your project team
-    * Make sure minimum standards aren't written down and filed away
+    * Make sure project standards are readily available
 
 ## Get to know your project
 
-* Know your users
+* Know your users. Understand who you're developing for.
 * Spend more time in the design phase
     * Play out use cases and user personas (and personas of users with disabilities)
     * Identify project elements and associated requirements/challenges
     * Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
 * Spend time on process
-    * Identify intake and prioritization heuristics
+    * Identify intake and prioritization heuristics--regulatory requirements are not enhancements
     * Develop use cases and personas
     * Identify supported technologies
     * Identify canonical guides
+    * Revisit your assumptions
 * Allow time to learn the tools!
 
-## Establishing Process to Minimize Risk
+## Establish Processes to Minimize Risk
 
+* Accessibility is especially vulnerable to regression
 * Different user groups will have competing needs
 * Accessibility is best included in an iterative fashion. Don't just test at the end of the lifecycle
 * Work with team members to automate accessibility testing when possible
 * Get QA and your accessibility experts involved early!
 * Get user feedback early!
 * Follow your checklists
+* Discuss accessibility in project retrospective session(s) and check-ins
 
-## Working with vendors
+## Hold your vendors accountable
 
 * Use the Accessibility Requirements for Procured Software v1.7 document as a reference. 
 * Be prepared to work with vendors that aren't familiar with accessibility requirements. 
     * This may mean finding other vendors
-* Make sure accessibility requirements are communicated to the vendor and in the contract
-    * Need to include remediation ("if it doesn't meet X, then it will be added on an agreed-upon time")
-* Check for VPAT from the vendor
+* Make sure accessibility requirements are communicated to the vendor
+* Make sure accessibility requirements are included in the contract
+    * Need to include remediation clause ("if it doesn't meet X, then it will be added on an agreed-upon time")
+* Check for Voluntary Product Accessibility Template (VPAT) from the vendor
 * Determine the vendor's point of contact to handle accessibility issues
 
 ## How do you know you're done
 
-* Accessibility is treated like any other requirement. You're done when you need to release (or run out of money). 
-    * Because you've prioritized your requirements, you know what needs to be completed to release a product.
+* Accessibility is treated like any other requirement
+    * Release because you've met the project's defined requirements
+    * Release because you've hit a hard deadline
+    * Release because you need feedback from the user
+* Because you've prioritized your requirements, you know what needs to be completed to release a product
+
+## How do you hand off the finished product
+
 * Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
 * Changing content may invalidate site accessibility 
 * Document where future enhancements are needed. 
