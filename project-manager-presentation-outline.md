@@ -2,6 +2,13 @@
 
 Available Time: 40 minutes
 
+## Intro
+    * Introduce presenters
+    * Presentation goals:
+        * High level understanding of how PMs can incorporate accessibility into project timeline
+    * Not covered:
+        * Specific project management methodologies
+
 ## Role of PM
 
 * Be aware of the state of the project at all times
@@ -11,13 +18,13 @@ Available Time: 40 minutes
 
 ## How to do that?
 
-* No surprises!
+* Minimize surprises!
     * Identify project requirements (legal, functional)
     * Tease out fuzzy requirements (implied functionality, poorly defined specs)
 * Communicate requirements to team
 * Communicate progress to stakeholders
-* *Not* responsible for implementation
-    * Understand rules of thumb
+* PM is *not* responsible for implementation
+    * PM should understand rules of thumb
 
 ## How does accessibility impact a PM's role?
 
@@ -26,14 +33,14 @@ Available Time: 40 minutes
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
 * Consider accessibility from the beginning and throughout the process
-* Two main sections: Requirements and Project Methodology and Management
+* Two main sections: Impact on project manager and impact on project implementers
 
 ## Requirements
 
 ## Requirements gathering
 
 * Treat accessibility requirements as any other UI requirement
-    * Minimum functional requirements
+    * Functional requirements must be included in minimum viable product
     * Mostly non-functional requirements--app won't break, but user experience will be poor
 * Can reference WCAG or external document and list exceptions
 * Your process will establish due diligence
