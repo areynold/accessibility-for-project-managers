@@ -57,26 +57,15 @@ Available Time: 40 minutes
     * OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
     * Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
 
-### Implementation of legal requirements can be fuzzy
+### Legal Takeaways
 
-* Hard to google a clear line item standard
-* Lots of room for (mis)interpretation
+* Requirements better defined than they used to be
+* Still hard to google a clear line item standard
+* Devil is in the details
     * Lots of outdated advice
     * Sometimes legal ambiguity
     * One-size-fits-all is not feasible
     * Best practices can be in conflict
-
-### Stakeholder Requests
-
-* Stakeholders often don't think about accessibility.
-    * Stakeholders see the impact of poor implementation
-    * This is much like other non-functional requirements, like security and logging
-* Because of this, you may need to remind stakeholders of these requirements.
-* Including accessibility means you have a better product
-    * Better SEO
-    * better usability
-    * better customer retention/market
-* Be prepared to back up your statements
 
 ### Functional Requirements
 
@@ -88,7 +77,19 @@ Available Time: 40 minutes
 * How much control do you have?
     * Third-party software may require changes
 
-### Functional requirements are fuzzy
+### Aside: Stakeholder Requests
+
+* Stakeholders often don't think about accessibility.
+    * Stakeholders see the impact of poor implementation
+    * This is much like other non-functional requirements, like security and logging
+* Because of this, you may need to remind stakeholders of these requirements.
+* Including accessibility means you have a better product
+    * Better SEO
+    * better usability
+    * better customer retention/market
+* Be prepared to back up your statements
+
+### Functional Takeaways
 
 * Some specs and support defined by language, wcag, tools
 * Big gap between meeting minimum functional requirements and meeting user expectations
@@ -99,10 +100,10 @@ Available Time: 40 minutes
 ### Wrapping up
 
 * Document your requirements
-* Document your decisions
+* Determine how accessibility requirements map to functional requirements
 * Make that documentation internally available to your team
 
-## Project Methodology and Management
+## Project Methodology and Management *FIXME: loaded terms*
 
 ## Facilitate inclusion of accessibility
 
