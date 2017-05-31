@@ -36,6 +36,24 @@ Available Time: 40 minutes
 * Your process will establish due diligence
 * Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
 
+## Project Manager Knowledge Requirements
+
+* Don't need to know everything
+    * lots of campus resources
+* Learn legal requirements
+* Learn high level WCAG 2.0 success criteria (a, aa, aaa)
+    * aa generally a safe, achievable choice
+    * aaa good goal, but may be impossible to achieve on all pages
+    * User content can fail a formerly accessible site
+* Learn to recognize 11 requirements, which should trigger accessibility check
+    * (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
+* Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
+* Understand accessibility/usability spectrum
+    * Disabilities can range from mild to severe
+    * Disabilities can be temporary
+    * Users with disabilities are not monolithic
+    * Users with disabilities are regular people
+
 ## Diving in: Requirements Gathering
 
 ## Summary
@@ -97,18 +115,18 @@ Available Time: 40 minutes
     * Accessibility/usability split makes a good threshold for minimum viable product
 * Users are not monolithic--no substitute for user testing
 
-### Wrapping up
+### Requirements Wrapup
 
 * Document your requirements
 * Determine how accessibility requirements map to functional requirements
 * Make that documentation internally available to your team
 
-## Project Methodology and Management *FIXME: loaded terms*
-
 ## Facilitate inclusion of accessibility
 
 * Identify existing expertise and interest
-* Appoint a liaison to accessibility experts if necessary--QA often a good choice
+* Appoint a liaison to accessibility experts if necessary
+    * QA often a good choice
+    * Plan for a learning curve (e.g., screenreaders)
 * Watch out for bottlenecks on critical personnel
 * Determine external resources
 
@@ -117,7 +135,7 @@ Available Time: 40 minutes
 * Come prepared with resources
 * Anticipate role-based concerns
     * Designers likely to feel hobbled
-    * Developers likely to be unsure what they need to implement 
+    * Developers likely to be unsure what they need to implement
 * Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
     * Build a common understanding of accessibility inside your project team
     * Make sure minimum standards aren't written down and filed away
@@ -135,22 +153,6 @@ Available Time: 40 minutes
     * Identify supported technologies
     * Identify canonical guides
 * Allow time to learn the tools!
-
-## Build Your Skills
-
-* Learn legal requirements
-* Learn WCAG 2.0 success criteria (a, aa, aaa)
-    * aa generally a safe, achievable choice
-    * aaa good goal, but may be impossible to achieve on all pages
-    * User content can fail a formerly accessible site
-* Learn to recognize 11 requirements (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
-* Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
-* Understand accessibility/usability spectrum
-    * Disabilities can range from mild to severe
-    * Disabilities can be temporary
-    * Users with disabilities are not monolithic
-    * Users with disabilities are regular people
-* Don't need to know everything
 
 ## Establishing Process to Minimize Risk
 
