@@ -46,9 +46,9 @@ Specific project management methodologies
 
 ---
 
-### PM is *not* responsible for implementation
+### Project Manager is *not* responsible for implementation
 
-* PM should understand rules of thumb
+Understand rules of thumb, not the gory details
 
 ---
 
