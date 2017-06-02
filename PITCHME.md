@@ -357,19 +357,31 @@ Different user groups may have competing needs
 
 ## How do you know you're done
 
-* Accessibility is treated like any other requirement
-    * Release because you've met the project's defined requirements
-    * Release because you've hit a hard deadline
-    * Release because you need feedback from the user
-* Because you've prioritized your requirements, you know what needs to be completed to release a product
+Just like any other requirement
+
+* Release because you've met the project's defined requirements
+* Release because you've hit a hard deadline
+* Release because you need feedback from the user
+
+---
+
+### Homework == Success!
+
+Because you've prioritized your requirements, you know what needs to be finished.
 
 ---
 
 ## How do you hand off the finished product
 
-* Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
-* Changing content may invalidate site accessibility 
-* Document where future enhancements are needed. 
+* Document the specs you met (refer to WCAG 2.0 guidelines)
+* Document areas where enhancements or remediations are needed
+
+---
+
+### Prepare the customer
+
+Changing content may invalidate site accessibility  
+(Refer to WCAG 2.0)
 
 ---
 
