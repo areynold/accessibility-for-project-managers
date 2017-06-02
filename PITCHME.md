@@ -179,13 +179,24 @@ Be prepared with sources!
 
 ### Functional Requirements
 
-* What are you building?
-    * Accessible output vs. accessible authoring tools for accessible output
-    * Ignore requirements for components you aren't using
-* What has the customer asked for?
-    * Some components, frameworks have known accessibility challenges
-* How much control do you have?
-    * Third-party software may require changes
+---
+
+**What are you building?**
+
+* Accessible output vs. accessible authoring tools for accessible output
+* Ignore requirements for components you aren't using
+
+---
+
+**What has the customer asked for?**
+
+(Some components, frameworks have known accessibility challenges)
+
+---
+
+**How much control do you have?**
+
+(Third-party software may require changes)
 
 ---
 
