@@ -62,6 +62,8 @@ Session Length: 40 minutes
     * aaa good goal, but may be impossible to achieve on all pages
     * User content can fail a formerly accessible site
 
+---
+
 ## Knowledge Requirements (contd)
 
 * Learn to recognize 11 requirements, which should trigger accessibility check
