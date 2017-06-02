@@ -23,7 +23,7 @@ Specific project management methodologies
 
 * Be aware of the state of the project at all times
 * Minimize risk (legal, functional, reputational)
-* Ensure smooth process
+* Ensure smooth development process and handoff
 * Be able to answer questions with a high degree of certainty
 
 ---
