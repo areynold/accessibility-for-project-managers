@@ -138,14 +138,14 @@ Understand accessibility/usability spectrum
 
 ### Regulatory Requirements
 
-All electronic products produced or procured for the U of I must meet WCAG 2.0 AA
+All electronic products produced or procured for the U of I subject to section 508
 
 * Must be accessible to persons with disabilities
 * Alternate arrangements must be made when content cannot be made accessible
 
 ---
 
-### Campus Legal (contd)
+### Implementation of Regulatory Requirements
 
 * Section 508 will mandate WCAG 2.0 Level AA as of January, 2018
 * IT Accessibility policy will require WCAG 2.0 Level AA for web technologies as of Fall 2017
@@ -154,15 +154,26 @@ All electronic products produced or procured for the U of I must meet WCAG 2.0 A
 
 ---
 
-### Legal Takeaways
+### The good
 
-* Requirements better defined than they used to be
+Requirements better defined than they used to be
+
+---
+
+### The not so good
+
 * Still hard to google a clear line item standard
 * Devil is in the details
     * Lots of outdated advice
     * Sometimes legal ambiguity
     * One-size-fits-all is not feasible
     * Best practices can be in conflict
+
+---
+
+### Legal Takeaways
+
+Be prepared with sources!
 
 ---
 
