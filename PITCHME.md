@@ -79,7 +79,9 @@ Session Length: 40 minutes
 
 ## Diving in: Requirements Gathering
 
-## Summary
+---
+
+### Summary
 
 * Accessibility is an inherent part of a product, just like usability, performance, and other "-ilities".
 * Accessibility is not a single checkbox item
