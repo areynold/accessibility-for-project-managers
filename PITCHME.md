@@ -285,13 +285,16 @@ As a team, commit to accessibility as a requirement
 ## Share knowledge
 
 * Come prepared with resources
-* Anticipate role-based concerns
-    * Designers likely to feel hobbled
-    * Developers likely to be unsure what they need to implement
-    * Content providers likely to be unaware that they have a role
-* Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
-    * Build a common understanding of accessibility inside your project team
-    * Make sure project standards are readily available
+* Build a common understanding of accessibility inside your project team
+* Make sure project standards are readily available
+
+---
+
+### Anticipate role-based concerns
+
+* Designers likely to feel hobbled
+* Developers likely to be unsure what they need to implement
+* Content providers likely to be unaware that they have a role
 
 ---
 
