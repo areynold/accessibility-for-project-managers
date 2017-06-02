@@ -34,7 +34,7 @@ Specific project management methodologies
 
 ### Minimize surprises!
 
-* Identify project requirements (legal, functional)
+* Identify project requirements (functional, technical, regulatory)
 * Tease out fuzzy requirements (implied functionality, poorly defined specs)
 
 ---
