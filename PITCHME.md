@@ -2,15 +2,21 @@
 
 Session Length: 40 minutes
 
+Presenters: Andrew Reynolds, Bryan Jonker
+
 ---
 
-## Intro
+## Presentation Goals
 
-* Introduce presenters
-* Presentation goals:
-    * High level understanding of how PMs can incorporate accessibility into project timeline
-* Not covered:
-    * Specific project management methodologies
+High level understanding of how PMs can incorporate accessibility into project timeline
+
+---
+
+## Not covered:
+
+Specific project management methodologies
+
+(Join us monthly at Explore With Hadi)
 
 ---
 
