@@ -313,25 +313,31 @@ Understand who you're developing for.
 
 ---
 
-### Spend time on process
+## Spend time on process
 
 * Identify intake and prioritization heuristics--regulatory requirements are not enhancements
 * Develop use cases and personas
 * Identify supported technologies
 * Identify canonical guides
-* Revisit your assumptions
 
 ---
 
-## Establish Processes to Minimize Risk
+### Establish Processes to Minimize Risk
 
-* Accessibility is especially vulnerable to regression
-* Different user groups will have competing needs
-* Accessibility is best included in an iterative fashion. Don't just test at the end of the lifecycle
-* Work with team members to automate accessibility testing when possible
+Accessibility is especially vulnerable to regression
+
+* Include accessibility in an iterative fashion. Don't just test at the end of the lifecycle
+* Automate accessibility testing when possible
+* Follow your checklists
+
+---
+
+### Revisit your assumptions
+
+Different user groups may have competing needs
+
 * Get QA and your accessibility experts involved early!
 * Get user feedback early!
-* Follow your checklists
 * Discuss accessibility in project retrospective session(s) and check-ins
 
 ---
