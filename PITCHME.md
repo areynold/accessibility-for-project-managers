@@ -1,6 +1,6 @@
-# Project Manager Presentation
+# Accessibility for Project Managers
 
-Available Time: 40 minutes
+Session Length: 40 minutes
 
 ---
 
