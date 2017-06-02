@@ -118,6 +118,7 @@ Understand accessibility/usability spectrum
 * Disabilities can range from mild to severe
 * Disabilities can be temporary
 * Users with disabilities are not monolithic
+* Users with disabilities may use your product in ways you hadn't considered
 * Users with disabilities are regular people
 
 ---
