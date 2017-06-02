@@ -202,15 +202,24 @@ Be prepared with sources!
 
 ### Aside: Stakeholder Requests
 
-* Stakeholders often don't think about accessibility.
-    * Stakeholders see the impact of poor implementation
-    * This is much like other non-functional requirements, like security and logging
-* Because of this, you may need to remind stakeholders of these requirements.
-* Including accessibility means you have a better product
+Accessibility is similar to other non-functional requirements like security.
+
+---
+
+Stakeholders often ask for accessibility but only in general terms.  
+Stakeholders do see the impact of poor implementation.
+
+---
+
+Be prepared to talk accessibility
+
+* Regulatory stick
+* Carrots
     * Better SEO
+    * More robust, flexible product
     * better usability
     * better customer retention/market
-* Be prepared to back up your statements
+* Back up your statements
 
 ---
 
