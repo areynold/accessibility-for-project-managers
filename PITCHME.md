@@ -89,7 +89,7 @@ Federal, state, and university legal and policy requirements
 
 ---
 
-###  Success criteria
+### Success criteria
 
 Learn high level differences between WCAG 2.0 success criteria (a, aa, aaa)
 * aaa good goal, but may be impossible to achieve on all pages
@@ -97,16 +97,28 @@ Learn high level differences between WCAG 2.0 success criteria (a, aa, aaa)
 
 ---
 
-## Knowledge Requirements (contd)
+### Applied Knowledge and Triggers
 
-* Learn to recognize 11 requirements, which should trigger accessibility check
-    * (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
-* Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
-* Understand accessibility/usability spectrum
-    * Disabilities can range from mild to severe
-    * Disabilities can be temporary
-    * Users with disabilities are not monolithic
-    * Users with disabilities are regular people
+---
+
+Learn to recognize 11 requirements, which should trigger accessibility check
+
+(Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
+
+---
+
+Learn to apply WCAG POUR principles
+
+(Perceivable, Operable, Understandable, and Robust)
+
+---
+
+Understand accessibility/usability spectrum
+
+* Disabilities can range from mild to severe
+* Disabilities can be temporary
+* Users with disabilities are not monolithic
+* Users with disabilities are regular people
 
 ---
 
