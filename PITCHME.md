@@ -54,12 +54,20 @@ Understand rules of thumb, not the gory details
 
 ## How should PMs approach accessibility?
 
-* Treat accessibility requirements as any other UI requirement
-    * Functional requirements must be included in minimum viable product
-    * Non-functional requirements will need testing and iteration--app won't break, but user experience will be poor
-* Can reference WCAG or external document and list exceptions
-* Your process will establish due diligence
-* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
+Plan for accessibility from the start.
+
+---
+
+## Treat accessibility requirements as any other UI requirement
+
+* Functional requirements should be included in minimum viable product
+* Non-functional requirements will need testing and iteration--app won't break, but user experience will be poor
+* Reference external documents (e.g., WCAG) and list exceptions
+
+---
+
+Your process will establish due diligence  
+Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
 
 ---
 
