@@ -123,31 +123,25 @@ Understand accessibility/usability spectrum
 
 ---
 
+### Summary
+
+* Accessibility is an inherent part of a product, just like usability, performance, and security
+* Accessibility is not a single checkbox item
+* Accessibility is easy to start doing, but difficult to add at the end of the project
+* Accessibility is easy to undo
+
+---
+
 ## Diving in: Requirements Gathering
 
 ---
 
-### Summary
+### Regulatory Requirements
 
-* Accessibility is an inherent part of a product, just like usability, performance, and other "-ilities".
-* Accessibility is not a single checkbox item
-* Accessibility is easy to start doing, but difficult to add at the end of the project
-* Accessibility is easy to undo
-* Must consider accessibility from the beginning and continue throughout the process
+All electronic products produced or procured for the U of I must meet WCAG 2.0 AA
 
----
-
-### Legal Requirements
-
-* All electronic products produced or procured for the U of I subject to section 508.
-    * Must be accessible to persons with disabilities
-    * Alternate arrangements must be made when content cannot be made accessible
-
----
-
-### Campus Legal Requirements
-
-* Practically speaking, university products should be written to WCAG 2.0 AA
+* Must be accessible to persons with disabilities
+* Alternate arrangements must be made when content cannot be made accessible
 
 ---
 
