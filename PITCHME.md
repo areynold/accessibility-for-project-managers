@@ -96,11 +96,21 @@ Session Length: 40 minutes
 * All electronic products produced or procured for the U of I subject to section 508.
     * Must be accessible to persons with disabilities
     * Alternate arrangements must be made when content cannot be made accessible
+
+---
+
+### Campus Legal Requirements
+
 * Practically speaking, university products should be written to WCAG 2.0 AA
-    * Section 508 will mandate WCAG 2.0 Level AA as of January, 2018
-    * IT Accessibility policy will require WCAG 2.0 Level AA for web technologies as of Fall 2017
-    * OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
-    * Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
+
+---
+
+### Campus Legal (contd)
+
+* Section 508 will mandate WCAG 2.0 Level AA as of January, 2018
+* IT Accessibility policy will require WCAG 2.0 Level AA for web technologies as of Fall 2017
+* OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
+* Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
 
 ---
 
