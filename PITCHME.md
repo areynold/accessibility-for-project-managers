@@ -261,9 +261,13 @@ Users have their own preferences, which may not be obvious to users without disa
 
 ## Facilitate inclusion of accessibility
 
-* As a team, commit to accessibility as a requirement
-* Understand that accessibility breaks down when people start guessing
-* Identify existing expertise and interest
+Understand that accessibility breaks down when people start guessing
+
+--
+
+As a team, commit to accessibility as a requirement
+
+* Enlist existing expertise and interest
 * Appoint a liaison to accessibility experts if necessary
     * QA often a good choice
 
