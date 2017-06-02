@@ -19,7 +19,7 @@ Specific project management methodologies
 
 ---
 
-## Role of PM
+## What is the PM's role?
 
 * Be aware of the state of the project at all times
 * Minimize risk (legal, functional, reputational)
@@ -28,16 +28,27 @@ Specific project management methodologies
 
 ---
 
-## How to do that?
+## How do we meet those needs?
 
-* Minimize surprises!
-    * Identify project requirements (legal, functional)
-    * Tease out fuzzy requirements (implied functionality, poorly defined specs)
-* Facilitate communication
-    * Communicate requirements to team and/or vendors
-    * Communicate progress to stakeholders
-* PM is *not* responsible for implementation
-    * PM should understand rules of thumb
+---
+
+### Minimize surprises!
+
+* Identify project requirements (legal, functional)
+* Tease out fuzzy requirements (implied functionality, poorly defined specs)
+
+---
+
+### Facilitate communication
+
+* Communicate requirements to team and/or vendors
+* Communicate progress to stakeholders
+
+---
+
+### PM is *not* responsible for implementation
+
+* PM should understand rules of thumb
 
 ---
 
