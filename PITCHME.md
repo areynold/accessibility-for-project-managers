@@ -252,8 +252,9 @@ Users have their own preferences, which may not be obvious to users without disa
 
 ### Requirements Wrapup
 
-* Document your requirements
+* Determine *all* of your requirements
 * Determine how accessibility requirements map to functional requirements
+* Document everything you've learned
 * Make that documentation internally available to your team
 
 ---
