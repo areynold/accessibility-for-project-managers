@@ -58,7 +58,7 @@ Plan for accessibility from the start.
 
 ---
 
-## Treat accessibility requirements as any other UI requirement
+## Treat accessibility as any other UI requirement
 
 * Functional requirements should be included in minimum viable product
 * Non-functional requirements will need testing and iteration--app won't break, but user experience will be poor
