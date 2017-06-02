@@ -264,3 +264,9 @@ Session Length: 40 minutes
 * Be aware that accessibility technology changes quickly. When handing off to a product team, be aware that they will need to update the product to meet these changes. 
 * Changing content may invalidate site accessibility 
 * Document where future enhancements are needed. 
+
+---
+
+## Wrap up
+
+*campus resources here*
