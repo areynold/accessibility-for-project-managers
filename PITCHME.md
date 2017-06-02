@@ -300,18 +300,26 @@ As a team, commit to accessibility as a requirement
 
 ## Get to know your project
 
-* Know your users. Understand who you're developing for.
-* Spend more time in the design phase
-    * Play out use cases and user personas (and personas of users with disabilities)
-    * Identify project elements and associated requirements/challenges
-    * Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
-* Spend time on process
-    * Identify intake and prioritization heuristics--regulatory requirements are not enhancements
-    * Develop use cases and personas
-    * Identify supported technologies
-    * Identify canonical guides
-    * Revisit your assumptions
-* Allow time to learn the tools!
+Know your users. 
+Understand who you're developing for.
+
+---
+
+### Spend more time in the design phase
+
+* Play out use cases and user personas (and personas of users with disabilities)
+* Identify project elements and associated requirements/challenges
+* Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
+
+---
+
+### Spend time on process
+
+* Identify intake and prioritization heuristics--regulatory requirements are not enhancements
+* Develop use cases and personas
+* Identify supported technologies
+* Identify canonical guides
+* Revisit your assumptions
 
 ---
 
