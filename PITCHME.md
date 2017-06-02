@@ -225,15 +225,28 @@ Be prepared to talk accessibility
 
 ### Functional Takeaways
 
-* Some specs and support defined by language, wcag, tools
-* Big gap between meeting minimum functional requirements and meeting user expectations
-    * e.g., Don't map ctrl+c to close window.
-    * Assistive technologies have their own conventions
-* At some point, accessibility becomes usability
-    * "Functional accessibility" concept
-    * Accessibility/usability split makes a good threshold for minimum viable product
-* Users are not monolithic--no substitute for user testing
-    * Users have their own preferences, which may not be obvious to users without disabilities
+Some specs and support defined by WCAG, language, tools
+
+---
+
+Big gap between meeting minimum functional requirements and meeting user expectations
+
+* e.g., Don't map ctrl+c to close window.
+* Assistive technologies have their own conventions
+
+---
+
+At some point, accessibility becomes usability
+
+* "Functional accessibility"
+* Accessibility/usability split makes a good threshold for minimum viable product
+
+--
+
+No substitute for user testing
+
+Users are not monolithic.  
+Users have their own preferences, which may not be obvious to users without disabilities
 
 ---
 
