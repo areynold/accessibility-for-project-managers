@@ -1,8 +1,7 @@
 # Accessibility for Project Managers
 
+Presenters: Andrew Reynolds, Bryan Jonker  
 Session Length: 40 minutes
-
-Presenters: Andrew Reynolds, Bryan Jonker
 
 ---
 
@@ -12,7 +11,7 @@ High level understanding of how PMs can incorporate accessibility into project t
 
 ---
 
-## Not covered:
+## Not covered
 
 Specific project management methodologies
 
@@ -23,7 +22,7 @@ Specific project management methodologies
 ## Role of PM
 
 * Be aware of the state of the project at all times
-* Minimize risk (legal, functional, reputation)
+* Minimize risk (legal, functional, reputational)
 * Ensure smooth process
 * Be able to answer questions with a high degree of certainty
 
