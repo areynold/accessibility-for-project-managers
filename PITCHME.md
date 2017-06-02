@@ -73,18 +73,27 @@ Make sure you don't mix up "this will inconvenience the user" and "this disenfra
 
 ## Project Manager Knowledge Requirements
 
-* Don't need to know everything
-    * lots of campus resources
+---
+
+## Don't need to know everything
+
+Lots of campus resources available. Use them!
 
 ---
 
-## Knowledge Requirements (contd)
+### Regulatory Requirements
 
-* Learn legal requirements
-* Learn high level WCAG 2.0 success criteria (a, aa, aaa)
-    * aa generally a safe, achievable choice
-    * aaa good goal, but may be impossible to achieve on all pages
-    * User content can fail a formerly accessible site
+Federal, state, and university legal and policy requirements
+
+(This is WCAG 2.0 AA for university employees)
+
+---
+
+###  Success criteria
+
+Learn high level differences between WCAG 2.0 success criteria (a, aa, aaa)
+* aaa good goal, but may be impossible to achieve on all pages
+* User content can fail a formerly accessible site
 
 ---
 
