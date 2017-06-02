@@ -2,12 +2,16 @@
 
 Available Time: 40 minutes
 
+--
+
 ## Intro
-    * Introduce presenters
-    * Presentation goals:
-        * High level understanding of how PMs can incorporate accessibility into project timeline
-    * Not covered:
-        * Specific project management methodologies
+
+* Introduce presenters
+* Presentation goals:
+    * High level understanding of how PMs can incorporate accessibility into project timeline
+* Not covered:
+    * Specific project management methodologies
+
 ---
 
 ## Role of PM
