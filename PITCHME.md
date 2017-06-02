@@ -8,6 +8,7 @@ Available Time: 40 minutes
         * High level understanding of how PMs can incorporate accessibility into project timeline
     * Not covered:
         * Specific project management methodologies
+---
 
 ## Role of PM
 
@@ -15,6 +16,8 @@ Available Time: 40 minutes
 * Minimize risk (legal, functional, reputation)
 * Ensure smooth process
 * Be able to answer questions with a high degree of certainty
+
+---
 
 ## How to do that?
 
@@ -27,6 +30,8 @@ Available Time: 40 minutes
 * PM is *not* responsible for implementation
     * PM should understand rules of thumb
 
+---
+
 ## How should PMs approach accessibility?
 
 * Treat accessibility requirements as any other UI requirement
@@ -36,15 +41,25 @@ Available Time: 40 minutes
 * Your process will establish due diligence
 * Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
 
+---
+
 ## Project Manager Knowledge Requirements
 
 * Don't need to know everything
     * lots of campus resources
+
+---
+
+## Knowledge Requirements (contd)
+
 * Learn legal requirements
 * Learn high level WCAG 2.0 success criteria (a, aa, aaa)
     * aa generally a safe, achievable choice
     * aaa good goal, but may be impossible to achieve on all pages
     * User content can fail a formerly accessible site
+
+## Knowledge Requirements (contd)
+
 * Learn to recognize 11 requirements, which should trigger accessibility check
     * (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
 * Learn to apply POUR principles (Perceivable, Operable, Understandable, and Robust)
@@ -53,6 +68,8 @@ Available Time: 40 minutes
     * Disabilities can be temporary
     * Users with disabilities are not monolithic
     * Users with disabilities are regular people
+
+---
 
 ## Diving in: Requirements Gathering
 
@@ -63,6 +80,8 @@ Available Time: 40 minutes
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
 * Must consider accessibility from the beginning and continue throughout the process
+
+---
 
 ### Legal Requirements
 
@@ -75,6 +94,8 @@ Available Time: 40 minutes
     * OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
     * Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
 
+---
+
 ### Legal Takeaways
 
 * Requirements better defined than they used to be
@@ -85,6 +106,8 @@ Available Time: 40 minutes
     * One-size-fits-all is not feasible
     * Best practices can be in conflict
 
+---
+
 ### Functional Requirements
 
 * What are you building?
@@ -94,6 +117,8 @@ Available Time: 40 minutes
     * Some components, frameworks have known accessibility challenges
 * How much control do you have?
     * Third-party software may require changes
+
+---
 
 ### Aside: Stakeholder Requests
 
@@ -107,6 +132,8 @@ Available Time: 40 minutes
     * better customer retention/market
 * Be prepared to back up your statements
 
+---
+
 ### Functional Takeaways
 
 * Some specs and support defined by language, wcag, tools
@@ -119,11 +146,15 @@ Available Time: 40 minutes
 * Users are not monolithic--no substitute for user testing
     * Users have their own preferences, which may not be obvious to users without disabilities
 
+---
+
 ### Requirements Wrapup
 
 * Document your requirements
 * Determine how accessibility requirements map to functional requirements
 * Make that documentation internally available to your team
+
+---
 
 ## Facilitate inclusion of accessibility
 
@@ -132,10 +163,17 @@ Available Time: 40 minutes
 * Identify existing expertise and interest
 * Appoint a liaison to accessibility experts if necessary
     * QA often a good choice
-    * Plan for a learning curve (e.g., screenreaders)
+
+---
+
+## Gotchas
+
 * Watch out for bottlenecks on critical personnel
-* Identify external resources and communicate to team
-* Obtain/offer accessibility training where appropriate
+* Plan for a learning curve (e.g., screenreaders)
+    * Identify external resources and communicate to team
+    * Obtain/offer accessibility training where appropriate
+
+---
 
 ## Share knowledge
 
@@ -147,6 +185,8 @@ Available Time: 40 minutes
 * Spread the knowledge of accessibility across as many team members as possible -- this will prevent bottlenecks
     * Build a common understanding of accessibility inside your project team
     * Make sure project standards are readily available
+
+---
 
 ## Get to know your project
 
@@ -163,6 +203,8 @@ Available Time: 40 minutes
     * Revisit your assumptions
 * Allow time to learn the tools!
 
+---
+
 ## Establish Processes to Minimize Risk
 
 * Accessibility is especially vulnerable to regression
@@ -173,6 +215,8 @@ Available Time: 40 minutes
 * Get user feedback early!
 * Follow your checklists
 * Discuss accessibility in project retrospective session(s) and check-ins
+
+---
 
 ## Hold your vendors accountable
 
@@ -185,6 +229,8 @@ Available Time: 40 minutes
 * Check for Voluntary Product Accessibility Template (VPAT) from the vendor
 * Determine the vendor's point of contact to handle accessibility issues
 
+---
+
 ## How do you know you're done
 
 * Accessibility is treated like any other requirement
@@ -192,6 +238,8 @@ Available Time: 40 minutes
     * Release because you've hit a hard deadline
     * Release because you need feedback from the user
 * Because you've prioritized your requirements, you know what needs to be completed to release a product
+
+---
 
 ## How do you hand off the finished product
 
