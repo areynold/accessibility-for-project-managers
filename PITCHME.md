@@ -344,6 +344,9 @@ Different user groups may have competing needs
 * Use the Accessibility Requirements for Procured Software v1.7 document as a reference. 
 * Be prepared to work with vendors that aren't familiar with accessibility requirements. 
     * This may mean finding other vendors
+
+---
+
 * Make sure accessibility requirements are communicated to the vendor
 * Make sure accessibility requirements are included in the contract
     * Need to include remediation clause ("if it doesn't meet X, then it will be added on an agreed-upon time")
