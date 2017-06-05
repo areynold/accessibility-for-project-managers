@@ -63,7 +63,8 @@ Understand rules of thumb, not the gory details
 
 ---
 
-Your process will establish due diligence  
+Your process will establish due diligence
+
 Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
 
 ---
