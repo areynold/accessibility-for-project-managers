@@ -359,15 +359,17 @@ Different user groups may have competing needs
 
 Just like any other requirement
 
-* Release because you've met the project's defined requirements
-* Release because you've hit a hard deadline
-* Release because you need feedback from the user
-
 ---
 
 ### Homework == Success!
 
 Because you've prioritized your requirements, you know what needs to be finished.
+
+---
+
+* Release because you've met the project's defined requirements
+* Release because you've hit a hard deadline
+* Release because you need feedback from the user
 
 ---
 
