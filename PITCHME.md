@@ -99,7 +99,7 @@ Learn high level differences between WCAG 2.0 success criteria (a, aa, aaa)
 
 ---
 
-Learn to recognize 11 requirements, which should trigger accessibility check
+Learn to recognize 11 requirements that should trigger accessibility check
 
 (Images, keyboard operability, forms, document structure, magnification, reading order, links & navigation, multimedia, tables, color & styles, aria)
 
