@@ -63,6 +63,13 @@ Understand rules of thumb, not the gory details
 
 ---
 
+* Accessibility is an inherent part of a product, just like usability, performance, and security
+* Accessibility is not a single checkbox item
+* Accessibility is easy to start doing, but difficult to add at the end of the project
+* Accessibility is easy to undo
+
+---
+
 Your process will establish due diligence
 
 Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
@@ -118,15 +125,6 @@ Understand accessibility/usability spectrum
 * Users with disabilities are not monolithic
 * Users with disabilities may use your product in ways you hadn't considered
 * Users with disabilities are regular people
-
----
-
-### Summary
-
-* Accessibility is an inherent part of a product, just like usability, performance, and security
-* Accessibility is not a single checkbox item
-* Accessibility is easy to start doing, but difficult to add at the end of the project
-* Accessibility is easy to undo
 
 ---
 
