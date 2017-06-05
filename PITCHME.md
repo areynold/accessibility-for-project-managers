@@ -260,7 +260,7 @@ Users have their own preferences, which may not be obvious to users without disa
 
 Understand that accessibility breaks down when people start guessing
 
---
+---
 
 As a team, commit to accessibility as a requirement
 
