@@ -239,7 +239,7 @@ At some point, accessibility becomes usability
 * "Functional accessibility"
 * Accessibility/usability split makes a good threshold for minimum viable product
 
---
+---
 
 No substitute for user testing
 
