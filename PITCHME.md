@@ -19,7 +19,7 @@ Specific project management methodologies
 
 ---
 
-## What is the PM's role?
+## What is the PM's role in accessibility?
 
 * Be aware of the state of the project at all times
 * Minimize risk (legal, functional, reputational)
