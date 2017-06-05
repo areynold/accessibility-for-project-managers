@@ -57,9 +57,9 @@ Understand rules of thumb, not the gory details
 
 ## Treat accessibility as any other UI requirement
 
-* Functional requirements should be included in minimum viable product
-* Non-functional requirements will need testing and iteration--app won't break, but user experience will be poor
-* Reference external documents (e.g., WCAG) and list exceptions
+* Include functional requirements in minimum viable product
+* Watch non-functional requirements for enhancement or regression--app won't break, but UX will be poor
+* Reference external documents (e.g., WCAG) and document any exceptions
 
 ---
 
