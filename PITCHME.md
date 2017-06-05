@@ -52,9 +52,7 @@ Understand rules of thumb, not the gory details
 
 ---
 
-## How should PMs approach accessibility?
-
-Plan for accessibility from the start.
+## What does that have to do with accessibility?
 
 ---
 
