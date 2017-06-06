@@ -147,7 +147,7 @@ All electronic products produced or procured for the U of I subject to section 5
 * Section 508 will mandate WCAG 2.0 Level AA as of January, 2018
 * IT Accessibility policy will require WCAG 2.0 Level AA for web technologies as of Fall 2017
 * OBFS requires WCAG 2.0 Level AA for purchase of web services and technologies
-* Illinois Information Technology Accessibility Act will likely be refreshed to mandate WCAG 2.0 Level AA as well
+* Illinois Information Technology Accessibility Act will be refreshed on July 18, 2017 to mandate WCAG 2.0 Level AA as well
 
 ---
 
@@ -214,8 +214,8 @@ Be prepared to talk accessibility
 * Carrots
     * Better SEO
     * More robust, flexible product
-    * better usability
-    * better customer retention/market
+    * Better usability
+    * Better customer retention/market
 * Back up your statements
 
 ---
@@ -389,4 +389,4 @@ Changing content may invalidate site accessibility
 
 ## Wrap up
 
-*campus resources here*
+https://docs.google.com/document/d/1cG4RR_thdSTfh9cN7J61U_mGQ0j338Xe1XCEU8yDefY
