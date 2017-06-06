@@ -278,11 +278,13 @@ As a team, commit to accessibility as a requirement
 
 ---
 
-## Share knowledge
+## Share the knowledge
 
-* Come prepared with resources
+---
+
 * Build a common understanding of accessibility inside your project team
 * Make sure project standards are readily available
+* Come prepared with resources
 
 ---
 
