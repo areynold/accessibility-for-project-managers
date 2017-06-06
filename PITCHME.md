@@ -201,7 +201,8 @@ Accessibility is similar to other non-functional requirements like security.
 
 ---
 
-Stakeholders often ask for accessibility but only in general terms.  
+Stakeholders often ask for accessibility but only in general terms.
+
 Stakeholders do see the impact of poor implementation.
 
 ---
@@ -210,8 +211,8 @@ Be prepared to talk accessibility
 
 * Regulatory stick
 * Carrots
-    * Better SEO
     * More robust, flexible product
+    * Better SEO
     * Better usability
     * Better customer retention/market
 * Back up your statements
