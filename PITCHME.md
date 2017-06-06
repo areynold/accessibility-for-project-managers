@@ -47,7 +47,7 @@ Specific project management methodologies
 ---
 
 Project Manager is *not* responsible for implementation  
-Understand rules of thumb, not the gory details
+Understand impact and rules of thumb, not the gory details
 
 ---
 
