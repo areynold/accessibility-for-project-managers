@@ -403,4 +403,4 @@ Especially useful if working with other higher ed institutions
 
 ## Wrap up
 
-https://docs.google.com/document/d/1cG4RR_thdSTfh9cN7J61U_mGQ0j338Xe1XCEU8yDefY
+Session Resources: https://goo.gl/Eng9oC
