@@ -228,7 +228,6 @@ At some point, accessibility becomes usability
 
 * Matt King - "Functional accessibility"
 * Accessibility/usability split makes a good threshold for minimum viable product
-* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
 
 ---
 
@@ -313,7 +312,15 @@ Understand who you're developing for.
 
 ## Spend time on process
 
-* Identify intake and prioritization heuristics--regulatory requirements are not enhancements
+---
+
+Identify intake and prioritization heuristics
+
+* Regulatory requirements are not enhancements
+* Understand "this inconveniences the user" vs. "this disenfranchises the user"
+
+---
+
 * Develop use cases and personas
 * Identify supported technologies
 * Identify canonical guides
