@@ -305,9 +305,9 @@ Understand who you're developing for.
 
 ### Spend more time in the design phase
 
-* Play out use cases with user personas (and personas of users with disabilities)
+* Play out use cases with user personas
 * Identify project elements and associated requirements/challenges
-* Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
+* Identify sweet spot to begin implementing UI, which is especially sensitive to code stability
 
 ---
 
@@ -322,7 +322,7 @@ Identify intake and prioritization heuristics
 
 ---
 
-* Develop use cases and personas
+* Develop use cases and rich user personas, including users with disabilities
 * Identify supported technologies
 * Identify canonical guides
 
