@@ -72,8 +72,6 @@ Understand rules of thumb, not the gory details
 
 Your process will establish due diligence
 
-Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
-
 ---
 
 ## Project Manager Knowledge Requirements
@@ -226,17 +224,18 @@ Some specs and support defined by WCAG, language, tools
 
 ---
 
+At some point, accessibility becomes usability
+
+* Matt King - "Functional accessibility"
+* Accessibility/usability split makes a good threshold for minimum viable product
+* Make sure you don't mix up "this will inconvenience the user" and "this disenfranchises the user"
+
+---
+
 Big gap between meeting minimum functional requirements and meeting user expectations
 
 * e.g., Don't map ctrl+c to close window.
 * Assistive technologies have their own conventions
-
----
-
-At some point, accessibility becomes usability
-
-* "Functional accessibility"
-* Accessibility/usability split makes a good threshold for minimum viable product
 
 ---
 
