@@ -305,7 +305,7 @@ Understand who you're developing for.
 
 ### Spend more time in the design phase
 
-* Play out use cases and user personas (and personas of users with disabilities)
+* Play out use cases with user personas (and personas of users with disabilities)
 * Identify project elements and associated requirements/challenges
 * Identify sweet spot to begin implementing UI, which is especially sensitive to accessibility issues
 
