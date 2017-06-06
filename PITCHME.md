@@ -355,11 +355,11 @@ Different user groups may have competing needs
 
 ---
 
+* Check for Voluntary Product Accessibility Template (VPAT) from the vendor
+* Determine the vendor's point of contact to handle accessibility issues
 * Make sure accessibility requirements are communicated to the vendor
 * Make sure accessibility requirements are included in the contract
     * Need to include remediation clause ("if it doesn't meet X, then it will be added on an agreed-upon time")
-* Check for Voluntary Product Accessibility Template (VPAT) from the vendor
-* Determine the vendor's point of contact to handle accessibility issues
 
 ---
 
