@@ -412,4 +412,4 @@ Especially useful if working with other higher ed institutions
 
 ## Wrap up
 
-Session Resources: https://goo.gl/Eng9oC
+Session Resources: https://go.illinois.edu/a11y-workflow
