@@ -96,7 +96,7 @@ Federal, state, and university legal and policy requirements
 
 ### Success criteria
 
-Learn high level differences between WCAG 2.0 success criteria (a, aa, aaa)
+Learn high level differences between WCAG 2.0 success criteria (A, AA, AAA)
 
 * Implementation requirements
 * Handoff and client responsibilities
