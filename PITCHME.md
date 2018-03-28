@@ -81,7 +81,8 @@ Your process will establish due diligence
 
 ## Don't need to know everything
 
-Lots of campus resources available. Use them!
+Lots of online guides, dev tools, and campus resources available.
+Use them!
 
 ---
 
