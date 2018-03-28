@@ -1,7 +1,7 @@
 # Accessibility for Project Managers
 
 Presenters: Andrew Reynolds, Bryan Jonker  
-Session Length: 40 minutes
+Session Length: 55 minutes
 
 ---
 
