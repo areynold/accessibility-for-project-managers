@@ -186,11 +186,10 @@ Requirements better defined than they used to be
 ### The not so good
 
 * Still hard to google a clear line item standard
-* Devil is in the details
-    * Lots of outdated advice
-    * Sometimes legal ambiguity
-    * One-size-fits-all is not feasible
-    * Best practices can be in conflict
+* Lots of outdated advice
+* Sometimes legal ambiguity
+* One-size-fits-all is not feasible
+* Best practices can be in conflict
 
 ---
 
