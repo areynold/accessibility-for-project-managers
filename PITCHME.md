@@ -136,7 +136,10 @@ Learn to recognize 11 requirements that should trigger accessibility check
 
 Learn to apply WCAG POUR principles
 
-(Perceivable, Operable, Understandable, and Robust)
+* Perceivable
+* Operable
+* Understandable
+* Robust
 
 ---
 
