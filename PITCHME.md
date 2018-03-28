@@ -154,7 +154,7 @@ Understand accessibility/usability spectrum
 
 ---
 
-### Regulatory Requirements
+### U of I Regulatory Requirements
 
 All electronic products produced or procured for the U of I subject to section 508
 
