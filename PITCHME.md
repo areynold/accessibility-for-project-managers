@@ -13,7 +13,8 @@ High level understanding of how PMs can incorporate accessibility into project t
 
 ## Not covered
 
-Specific project management methodologies
+* Specific project management methodologies
+* Implementation details
 
 (Join us monthly at Explore With Hadi)
 
