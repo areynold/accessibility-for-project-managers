@@ -3,7 +3,6 @@
 Presenters: Andrew Reynolds, Bryan Jonker  
 Session Length: 55 minutes
 
-Note: Who works at U of I, other state agency, or creates services for a state agency?
 
 ---
 
@@ -19,6 +18,8 @@ High level understanding of how PMs can incorporate accessibility into project t
 * Implementation details
 
 (Join us monthly at Explore With Hadi)
+
+Note: Who works at U of I, other state agency, or creates services for a state agency?
 
 ---
 
