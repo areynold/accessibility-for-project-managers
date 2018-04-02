@@ -432,14 +432,17 @@ Because you've prioritized your requirements, you know what needs to be finished
 
 ### Prepare the customer
 
-Changing content may invalidate site accessibility  
-(Refer to WCAG 2.0)
+Changing content may invalidate site accessibility
+
+Note: Refer to WCAG 2.0
 
 ---
 
 ## Consider creating a VPAT
 
 Especially useful if working with other higher ed institutions
+
+Note: _product_ accessibility template. Discuss vpat structure.
 
 ---
 
