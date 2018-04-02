@@ -69,7 +69,6 @@ Understand impact and rules of thumb, not the gory details
 * Follow established best practices during implementation
 * Plan for iterative enhancement based on user feedback
 * Reference external specifications (e.g., WCAG) and document any exceptions
-* Watch for regression--app won't break, but UX will be poor
 
 ---
 
@@ -77,6 +76,8 @@ Understand impact and rules of thumb, not the gory details
 * Accessibility is an inherent part of a product, not a single checkbox item
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
+
+Note: Watch for regression--app won't break, but UX will be poor
 
 ---
 
@@ -88,6 +89,8 @@ Understand impact and rules of thumb, not the gory details
 
 Lots of online guides, dev tools, and campus resources available.
 Use them!
+
+Note: list a few! Start with WCAG 2.0.
 
 ---
 
@@ -206,7 +209,7 @@ Be prepared with sources!
 
 ---
 
-### Functional Requirements
+## Diving in: Functional Requirements
 
 ---
 
