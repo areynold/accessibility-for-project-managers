@@ -68,8 +68,8 @@ Understand impact and rules of thumb, not the gory details
 * Include known functional requirements in minimum viable product
 * Follow established best practices during implementation
 * Plan for iterative enhancement based on user feedback
+* Reference external specifications (e.g., WCAG) and document any exceptions
 * Watch for regression--app won't break, but UX will be poor
-* Reference external documents (e.g., WCAG) and document any exceptions
 
 ---
 
