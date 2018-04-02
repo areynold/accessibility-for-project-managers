@@ -254,10 +254,11 @@ Some specs and support defined by WCAG, language, tools
 
 ---
 
-At some point, accessibility becomes usability
+Line between accessibility and usability is fuzzy
 
-* Matt King - "Functional accessibility"
 * Accessibility/usability split makes a good threshold for minimum viable product
+* Some accessibility fixes are simple and straightforward
+* Some accessibility fixes are nuanced and require user testing
 
 ---
 
@@ -265,6 +266,9 @@ Big gap between meeting minimum functional requirements and meeting user expecta
 
 * e.g., Don't map ctrl+c to close window.
 * Assistive technologies have their own conventions
+* Product can be accessible without being usable
+
+Note: Matt King (Facebook) - "Functional accessibility"
 
 ---
 
