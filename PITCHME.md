@@ -272,11 +272,12 @@ Line between accessibility and usability is fuzzy
 
 Big gap between meeting minimum functional requirements and meeting user expectations
 
-* e.g., Don't map ctrl+c to close window.
 * Assistive technologies have their own conventions
-* Product can be accessible without being usable
+* Product can pass accessibility validators without being usable
 
-Note: Matt King (Facebook) - "Functional accessibility"
+Note:  e.g., Don't map ctrl+c to close window.
+
+Matt King (Facebook) - "Functional accessibility"
 
 ---
 
@@ -310,7 +311,7 @@ As a team, commit to accessibility as a requirement
 
 ---
 
-## Gotchas
+### Gotchas
 
 * Watch out for bottlenecks on critical personnel
 * Plan for a learning curve (e.g., screenreaders)
@@ -409,7 +410,7 @@ This may mean finding other vendors
 
 Make sure accessibility requirements are included in the contract
 
-Include remediation clause ("if it doesn't meet X, then it will be added on an agreed-upon time")
+Include remediation clause ("if it doesn't meet X, then it will be added by an agreed-upon time")
 
 ---
 
