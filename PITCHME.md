@@ -3,6 +3,8 @@
 Presenters: Andrew Reynolds, Bryan Jonker  
 Session Length: 55 minutes
 
+Note: Who works at U of I, other state agency, or creates services for a state agency?
+
 ---
 
 ## Presentation Goals
