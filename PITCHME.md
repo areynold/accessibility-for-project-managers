@@ -212,15 +212,15 @@ Be prepared with sources!
 
 ---
 
-**What has the customer asked for?**
-
-(Some components, frameworks have known accessibility challenges)
-
----
-
 **How much control do you have?**
 
 (Third-party software may require changes)
+
+---
+
+**What has the customer asked for?**
+
+(Some components, frameworks have known accessibility challenges)
 
 ---
 
@@ -232,7 +232,7 @@ Accessibility is similar to other non-functional requirements like security.
 
 Stakeholders often ask for accessibility but only in general terms.
 
-Stakeholders do see the impact of poor implementation.
+Stakeholders will see the impact of poor implementation.
 
 ---
 
