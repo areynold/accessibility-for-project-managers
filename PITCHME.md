@@ -113,6 +113,8 @@ Learn high level differences between WCAG 2.0 success criteria (A, AA, AAA)
 * Application
 * Understanding
 
+Note: three broad knowledge categories
+
 ---
 
 Learn to recognize 11 requirements that should trigger accessibility check
