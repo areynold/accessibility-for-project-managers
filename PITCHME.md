@@ -32,6 +32,10 @@ Note: Who works at U of I, other state agency, or creates services for a state a
 
 ---
 
+Your process will establish due diligence
+
+---
+
 ## How do we meet those needs?
 
 ---
@@ -73,10 +77,6 @@ Understand impact and rules of thumb, not the gory details
 * Accessibility is an inherent part of a product, not a single checkbox item
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
-
----
-
-Your process will establish due diligence
 
 ---
 
