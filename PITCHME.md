@@ -60,14 +60,16 @@ Understand impact and rules of thumb, not the gory details
 
 ## Treat accessibility as any other UI requirement
 
-* Include functional requirements in minimum viable product
-* Watch non-functional requirements for enhancement or regression--app won't break, but UX will be poor
+* Include known functional requirements in minimum viable product
+* Follow established best practices during implementation
+* Plan for iterative enhancement based on user feedback
+* Watch for regression--app won't break, but UX will be poor
 * Reference external documents (e.g., WCAG) and document any exceptions
 
 ---
 
-* Accessibility is an inherent part of a product, just like usability, performance, and security
-* Accessibility is not a single checkbox item
+* Accessibility is a non-functional requirement, just like usability, performance, and security
+* Accessibility is an inherent part of a product, not a single checkbox item
 * Accessibility is easy to start doing, but difficult to add at the end of the project
 * Accessibility is easy to undo
 
